@@ -20,7 +20,7 @@
 1.  安装脚本管理器插件：[Tampermonkey (油猴)](https://www.tampermonkey.net/)。
 2.  点击本仓库上方 `Code` -> `Download ZIP` 下载代码，或直接复制脚本内容。
 3.  在 Tampermonkey 中新建脚本，粘贴代码并保存。
-4.  登录河北大学 WebVPN 教务系统，进入“教学评估” -> “学生评估问卷列表”页面。
+4.  登录河北大学 WebVPN 教务系统，进入“教学评估”页面。
 5.  脚本将自动开始运行，请保持网页在**前台显示**以获得最佳体验。
 
 ## ⚠️ 免责声明 (Disclaimer)
